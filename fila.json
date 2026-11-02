@@ -1,3 +1,124 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "id": "reel-gratis",
+      "tipo": "reel",
+      "agendado_para": "2026-11-02T17:00:00-03:00",
+      "legenda": "Você não precisa pagar três IAs.\n\nComenta GRATIS que eu te mando a tabela completa do que cada plano grátis faz.\n\nChatGPT grátis: conversa à vontade, pesquisa na internet, cria imagem.\nClaude grátis: cria planilha, documento e apresentação; lembra das conversas.\nGemini grátis: pesquisa profunda e conversa por voz.\nO limite é o volume (imagem, arquivo e conversa longa acabam rápido).\n\nPáginas oficiais da OpenAI, Anthropic e Google, conferidas em 02/11/2026. Os planos mudam rápido.\nNarração com voz de IA.\n\n#inteligenciaartificial #chatgpt #produtividade #ferramentasgratuitas",
+      "midias": [
+        "video.mp4"
+      ],
+      "capa": "capa.jpg",
+      "ia": true,
+      "instagram": {
+        "status": "pendente",
+        "tentativas": 0
+      }
+    },
+    {
+      "id": "reel-lista",
+      "tipo": "reel",
+      "agendado_para": "2026-11-03T07:30:00-03:00",
+      "legenda": "Você ainda monta lista de cliente na mão?\n\nComenta LISTA que eu te mando o passo a passo com o pedido pronto.\n\nDá pra fazer o Claude puxar empresas do Google Maps e devolver uma tabela com nome, telefone, site e nota:\n1. Conta grátis na Apify (US$ 5 de uso por mês, sem cartão).\n2. No Claude, adiciona o conector da Apify (o plano grátis permite um conector personalizado).\n3. Pede a lista com a cidade e o tipo de empresa.\n\nE-mail não vem (é adicional pago). Use só dados de empresa e respeite quem pedir pra sair (LGPD).\n\nConferido nas páginas oficiais em 02/11/2026. Sem vínculo com a Apify nem com a Anthropic.\nNarração com voz de IA.\n\n#inteligenciaartificial #prospeccao #vendas #produtividade #claude",
+      "midias": [
+        "video.mp4"
+      ],
+      "capa": "capa.jpg",
+      "ia": true,
+      "instagram": {
+        "status": "pendente",
+        "tentativas": 0
+      }
+    },
+    {
+      "id": "reel-bolso",
+      "tipo": "reel",
+      "agendado_para": "2026-11-04T12:30:00-03:00",
+      "legenda": "A dívida do Brasil chegou a R$ 11,1 trilhões. E o que isso muda pra você?\n\nComenta BOLSO que eu te mando o pedido pronto pra IA explicar qualquer notícia de economia.\n\n1. Cola a notícia inteira.\n2. Pede 3 frases simples, sem economês.\n3. Pergunta o que muda no seu bolso: crédito, preços, emprego.\nE manda a IA citar a fonte de cada número: IA erra número.\n\nFonte: Banco Central, Estatísticas Fiscais de 29/10/2026 (dívida bruta do governo geral em setembro: 82,9% do PIB; juros de R$ 1,2 trilhão em 12 meses).\n\nConferido nas páginas oficiais em 02/11/2026.\nNarração com voz de IA.\n\n#economia #inteligenciaartificial #dinheiro #educacaofinanceira",
+      "midias": [
+        "video.mp4"
+      ],
+      "capa": "capa.jpg",
+      "ia": true,
+      "instagram": {
+        "status": "pendente",
+        "tentativas": 0
+      }
+    },
+    {
+      "id": "reel-ideias",
+      "tipo": "reel",
+      "agendado_para": "2026-11-05T19:00:00-03:00",
+      "legenda": "Não sabe o que postar no Instagram da sua empresa?\n\nComenta IDEIAS que eu te mando o pedido pronto (e as 30 ideias do teste com uma padaria).\n\nO truque é uma tabela: 5 assuntos do seu negócio × 6 formatos de post = 30 ideias.\n1. Os 5 assuntos que o seu cliente mais pergunta.\n2. Os formatos: dica, bastidor, antes e depois, dúvida, depoimento, oferta.\n3. Pede as 30 ideias com o gancho de cada uma.\n\nTestado com o Claude em 02/11/2026 (padaria fictícia).\nNarração com voz de IA.\n\n#marketingdigital #instagramparanegocios #inteligenciaartificial #empreendedorismo",
+      "midias": [
+        "video.mp4"
+      ],
+      "capa": "capa.jpg",
+      "ia": true,
+      "instagram": {
+        "status": "pendente",
+        "tentativas": 0
+      }
+    },
+    {
+      "id": "reel-resumo",
+      "tipo": "reel",
+      "agendado_para": "2026-11-06T08:00:00-03:00",
+      "legenda": "Aquela aula de uma hora no YouTube? Você não precisa assistir inteira.\n\nComenta RESUMO que eu te mando o passo a passo com os pedidos prontos.\n\n1. Abre o Gemini Notebook (o antigo NotebookLM) e cria um caderno.\n2. Adiciona o link do vídeo como fonte.\n3. Pede as ideias principais, um resumo em tópicos ou um podcast em português.\n\nSó vale para vídeo público com legenda (a automática serve). No grátis, até 50 fontes.\n\nAjuda oficial do Google, conferida em 02/11/2026.\nNarração com voz de IA.\n\n#estudos #inteligenciaartificial #produtividade #youtube",
+      "midias": [
+        "video.mp4"
+      ],
+      "capa": "capa.jpg",
+      "ia": true,
+      "instagram": {
+        "status": "pendente",
+        "tentativas": 0
+      }
+    },
+    {
+      "id": "reel-conector",
+      "tipo": "reel",
+      "agendado_para": "2026-11-07T19:30:00-03:00",
+      "legenda": "O Claude consegue ler o seu e-mail. Mas tem um detalhe que quase ninguém conta.\n\nComenta CONECTOR que eu te mando o passo a passo e os melhores pedidos.\n\n1. Em Personalizar → Conectores, liga o Gmail e pergunta (\"o que o cliente falou sobre o prazo?\"). Ele mostra de qual e-mail tirou.\n2. O detalhe: Gmail e Agenda do Google só nos planos pagos. E ele só lê, não envia.\n3. Microsoft 365 funciona até no plano grátis, com conta da empresa.\n\nDocumentação oficial da Anthropic, conferida em 02/11/2026. Sem vínculo com a Anthropic.\nNarração com voz de IA.\n\n#inteligenciaartificial #produtividade #claude #email",
+      "midias": [
+        "video.mp4"
+      ],
+      "capa": "capa.jpg",
+      "ia": true,
+      "instagram": {
+        "status": "pendente",
+        "tentativas": 0
+      }
+    },
+    {
+      "id": "reel-confere",
+      "tipo": "reel",
+      "agendado_para": "2026-11-08T10:00:00-03:00",
+      "legenda": "Nunca confie na primeira resposta da IA.\n\nComenta CONFERE que eu te mando o pedido pronto pra uma IA conferir a outra.\n\n1. Faz a pergunta numa IA.\n2. Copia a resposta e cola em outra (Claude, ChatGPT ou Gemini).\n3. Pede: \"ache os erros, o que está sem fonte e o que você faria diferente\".\nConcordaram? Mais confiança. Discordaram? Você achou onde conferir.\n\nFunciona nos planos grátis.\nNarração com voz de IA.\n\n#inteligenciaartificial #chatgpt #produtividade #dicas",
+      "midias": [
+        "video.mp4"
+      ],
+      "capa": "capa.jpg",
+      "ia": true,
+      "instagram": {
+        "status": "pendente",
+        "tentativas": 0
+      }
+    },
+    {
+      "id": "reel-robo",
+      "tipo": "reel",
+      "agendado_para": "2026-11-09T12:00:00-03:00",
+      "legenda": "Ninguém editou este vídeo. Nem gravou.\n\nComenta ROBO que eu te mostro como funciona por dentro.\n\n1. O Claude escreve o roteiro e confere cada fato na fonte.\n2. Uma voz de IA narra.\n3. As cenas são desenhadas por código, quadro a quadro, no ritmo da fala.\nNo fim, um robô no GitHub publica pela API oficial do Instagram. Eu só reviso.\n\nNarração com voz de IA.\n\n#inteligenciaartificial #automacao #bastidores #criadordeconteudo",
+      "midias": [
+        "video.mp4"
+      ],
+      "capa": "capa.jpg",
+      "ia": true,
+      "instagram": {
+        "status": "pendente",
+        "tentativas": 0
+      }
+    }
+  ]
 }
