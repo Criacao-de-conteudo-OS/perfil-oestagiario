@@ -58,6 +58,21 @@
       }
     },
     {
+      "id": "reel-planilha",
+      "tipo": "reel",
+      "agendado_para": "2026-11-05T12:30:00-03:00",
+      "legenda": "Seu salário some e você não sabe pra onde? A IA monta sua planilha de gastos sem você digitar nada.\n\nComenta PLANILHA que eu te mando os pedidos prontos.\n\nPasso 1: tire foto dos comprovantes ou baixe o extrato do banco em PDF.\nPasso 2: mande tudo para o Claude (funciona no plano grátis) e peça a planilha com data, descrição, categoria e valor.\nPasso 3, o que mais muda: peça para ele mostrar os gastos que se repetem todo mês e onde dá para cortar.\n\nAntes de mandar, cubra CPF, número da conta e do cartão. Nunca mande senha. Confira os valores: foto borrada pode virar número errado.\n\nPáginas oficiais da Anthropic conferidas em 04/11/2026: o plano grátis aceita fotos e PDFs e cria arquivos. Os planos mudam rápido.\nNarração com voz de IA. Valores do vídeo são ilustrativos.\n\n#financaspessoais #inteligenciaartificial #planilha #organizacaofinanceira",
+      "midias": [
+        "video.mp4"
+      ],
+      "capa": "capa.jpg",
+      "ia": true,
+      "instagram": {
+        "status": "pendente",
+        "tentativas": 0
+      }
+    },
+    {
       "id": "reel-ideias",
       "tipo": "reel",
       "agendado_para": "2026-11-05T19:00:00-03:00",
