@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>A IA explica qualquer notícia que mexe no seu bolso · @oestagiario.ia</title>
+<meta name="description" content="O pedido pronto para a IA explicar uma notícia de economia em linguagem simples e dizer o que muda para você.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700;800&family=Archivo+Black&family=Instrument+Serif:ital@1&display=swap">
+<style>
+  :root { --cor: #FFC928; --fundo: #0B0B0E; --painel: #16161C; --borda: #2C2C36; --texto: #F4F4F6; --suave: #A9A9B4; --ok: #34D399; --erro: #F87171; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--fundo); color: var(--texto); font: 500 17px/1.6 "Archivo", system-ui, sans-serif; }
+  main { max-width: 680px; margin: 0 auto; padding: 28px 16px 64px; }
+  .marca { display: inline-block; font-weight: 700; color: var(--suave); text-decoration: none; margin-bottom: 22px; }
+  h1 { font: 400 34px/1.1 "Archivo Black", sans-serif; letter-spacing: -0.5px; margin-bottom: 14px; }
+  h1 em { font: italic 400 1.12em/1 "Instrument Serif", Georgia, serif; color: var(--cor); }
+  .conferido { display: inline-block; font-size: 14px; color: var(--suave); border: 1px solid var(--borda); border-radius: 999px; padding: 4px 12px; margin-bottom: 26px; }
+  p { margin-bottom: 14px; }
+  h2 { font: 800 21px/1.25 "Archivo", sans-serif; margin: 34px 0 12px; display: flex; gap: 12px; align-items: center; }
+  h2 b { flex: none; width: 34px; height: 34px; border-radius: 50%; background: var(--cor); color: #121212; display: inline-flex; align-items: center; justify-content: center; font-size: 17px; }
+  ol, ul { padding-left: 22px; margin-bottom: 14px; }
+  li { margin-bottom: 8px; }
+  code { font: 600 15px/1.4 ui-monospace, Consolas, monospace; background: var(--painel); border: 1px solid var(--borda); border-radius: 6px; padding: 2px 6px; word-break: break-all; }
+  .caixa { background: var(--painel); border: 1px solid var(--borda); border-radius: 16px; padding: 18px; margin: 14px 0; overflow-x: auto; }
+  .prompt { border-color: color-mix(in srgb, var(--cor) 70%, transparent); }
+  .prompt .topo { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-bottom: 10px; }
+  .prompt .rotulo { font-weight: 800; font-size: 13px; letter-spacing: 2px; text-transform: uppercase; color: var(--cor); }
+  .prompt pre { white-space: pre-wrap; font: 600 16px/1.55 "Archivo", sans-serif; }
+  .vaga { color: var(--cor); }
+  button { font: 700 15px/1 "Archivo", sans-serif; color: #121212; background: var(--cor); border: 0; border-radius: 999px; padding: 10px 16px; cursor: pointer; flex: none; }
+  button.feito { background: var(--ok); }
+  .aviso { border-color: rgba(248,113,113,0.5); }
+  .aviso strong { color: var(--erro); }
+  table { width: 100%; border-collapse: collapse; font-size: 15px; }
+  th, td { text-align: left; vertical-align: top; padding: 8px 6px; border-bottom: 1px solid var(--borda); }
+  th { color: var(--suave); font-weight: 700; }
+  .rodape { margin-top: 40px; padding-top: 20px; border-top: 1px solid var(--borda); color: var(--suave); font-size: 15px; }
+  a { color: var(--cor); }
+</style>
+</head>
+<body>
+<main>
+  <a class="marca" href="https://www.instagram.com/oestagiario.ia/">@oestagiario.ia</a>
+  <h1>A IA explica qualquer notícia que mexe no seu <em>bolso</em></h1>
+  <span class="conferido">Conferido nas páginas oficiais em 02/11/2026</span>
+  <p>Notícia de economia cheia de número e economês? Com o pedido certo, a IA explica em linguagem simples e diz o que muda na sua vida. Funciona no plano grátis do ChatGPT, do Claude ou do Gemini.</p><h2><b>1</b> Cole a notícia inteira</h2><p>Copie o texto da notícia, não só o título, e cole na IA que você usa.</p><h2><b>2</b> Use o pedido pronto</h2><div class="caixa prompt"><div class="topo"><span class="rotulo">Pedido pronto</span><button type="button" data-copiar="pedido1">Copiar</button></div><pre id="pedido1">Vou colar uma notícia de economia. Faça três coisas:
+1. Explique em 3 frases simples, para alguém que não é economista.
+2. Diga o que isso pode mudar no meu dia a dia: crédito, preços, emprego e investimentos.
+3. Liste cada número da notícia com a fonte e avise se algum número não tem fonte.
+Não dê opinião política. Se algo for incerto, diga que é incerto.
+
+Notícia: <span class="vaga">[cole aqui]</span></pre></div><h2><b>3</b> Confira os números</h2><p>IA erra número. Abra a fonte que ela citou e confira. Se ela não citar, desconfie e procure a fonte original (Banco Central, IBGE, Tesouro).</p><h2><b>R$</b> O dado do vídeo</h2><div class="caixa"><table><tr><th>Indicador</th><th>Setembro de 2026</th></tr><tr><td>Dívida bruta do governo geral</td><td><strong>R$ 11,1 trilhões</strong> (82,9% do PIB)</td></tr><tr><td>Juros do setor público em 12 meses</td><td><strong>R$ 1,205 trilhão</strong> (8,99% do PIB)</td></tr></table></div><p>Fonte: nota do Banco Central de 29/10/2026. A dívida bruta soma governo federal, INSS, estados e municípios.</p><h2>Cuidados</h2><div class="caixa aviso"><p><strong>Use com responsabilidade.</strong></p><ul><li>A explicação serve para entender a notícia, não é recomendação de investimento.</li><li>Confira sempre o número na fonte original antes de repassar.</li><li>Peça a explicação sem opinião: o pedido acima já faz isso.</li></ul></div>
+  <div class="rodape">
+    <p>Próximo: CONFERE, como uma IA confere a resposta da outra. Segue o <a href="https://www.instagram.com/oestagiario.ia/">@oestagiario.ia</a>.</p>
+    <p>Fontes: <a href="https://www.bcb.gov.br/estatisticas/estatisticasfiscais">Banco Central, Estatísticas Fiscais (29/10/2026)</a>. Sem vínculo com nenhuma dessas empresas.</p>
+  </div>
+</main>
+<script>
+  document.querySelectorAll('[data-copiar]').forEach((botao) => {
+    botao.addEventListener('click', async () => {
+      const texto = document.getElementById(botao.dataset.copiar).innerText;
+      try { await navigator.clipboard.writeText(texto); botao.textContent = 'Copiado'; botao.classList.add('feito'); }
+      catch { botao.textContent = 'Selecione e copie'; }
+    });
+  });
+</script>
+</body>
+</html>
