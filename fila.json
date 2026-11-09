@@ -166,6 +166,51 @@
         "status": "pendente",
         "tentativas": 0
       }
+    },
+    {
+      "id": "reel-salvar",
+      "tipo": "reel",
+      "agendado_para": "2026-11-09T19:00:00-03:00",
+      "legenda": "Seu GPT favorito vai sumir em 11/12 ↓\nComenta SALVAR que eu te mando o passo a passo para salvar o seu antes.\n\n1. Copie agora as instruções e os arquivos do seu GPT.\n2. Quando a opção aparecer em Meus GPTs, migre para plugin. As instruções viram uma skill, mas as ações personalizadas não vão junto.\n3. O meu favorito: cole tudo num Projeto do Claude. Funciona no plano grátis (até 5 projetos).\n\nGPT de outra pessoa? Veja o aviso no próprio GPT e o que o criador indica no lugar.\nSuas conversas antigas continuam salvas.\nAlgumas empresas têm prazo maior: vale o aviso da sua conta.\n\nConferido nas páginas oficiais da OpenAI e da Anthropic em 08/11/2026.\nNarração com voz de IA.\n\n#chatgpt #claude #inteligenciaartificial #produtividade",
+      "midias": [
+        "video.mp4"
+      ],
+      "capa": "capa.jpg",
+      "ia": true,
+      "instagram": {
+        "status": "pendente",
+        "tentativas": 0
+      }
+    },
+    {
+      "id": "reel-decimo",
+      "tipo": "reel",
+      "agendado_para": "2026-11-10T12:30:00-03:00",
+      "legenda": "Seu 13º chega junto com a Black Friday ↓\nAntes de gastar, pede pra IA dividir.\n\nAs datas: a 1ª parcela do 13º sai até 30/11 e a 2ª até 20/12 (Lei 4.749/1965). A Black Friday é em 27/11.\n\nO pedido para colar no Claude (ou em outra IA):\n\"Vou receber R$ ___ de 13º. Devo R$ ___ (cartão, cheque especial...). Quero guardar R$ ___. Monta um plano: primeiro as dívidas com juros mais altos, depois a reserva, e só então as compras.\"\n\nPagar primeiro as dívidas mais caras é a orientação do Banco Central (Cidadania Financeira).\nOs valores do vídeo são um exemplo ilustrativo. Nunca mande senha nem dados do banco para a IA.\n\nManda pra quem já gastou o 13º de cabeça.\nConferido nas páginas oficiais do eSocial, do Planalto e do Banco Central em 08/11/2026.\nNarração com voz de IA.\n\n#13salario #blackfriday #financaspessoais #inteligenciaartificial",
+      "midias": [
+        "video.mp4"
+      ],
+      "capa": "capa.jpg",
+      "ia": true,
+      "instagram": {
+        "status": "pendente",
+        "tentativas": 0
+      }
+    },
+    {
+      "id": "reel-respostas",
+      "tipo": "reel",
+      "agendado_para": "2026-11-10T19:00:00-03:00",
+      "legenda": "Seu WhatsApp pode responder sem você ↓\nComenta RESPOSTAS que eu te mando o pedido pronto + onde colar cada resposta.\n\nAntes: peça pro Claude as 10 perguntas que seus clientes mais fazem, com as respostas no seu tom.\n1. Respostas rápidas (Ferramentas > Respostas rápidas): cabem até 50. No chat, digite / e escolha.\n2. Mensagem de ausência (Ferramentas > Mensagem de ausência): programe para fora do horário de atendimento.\n3. A minha favorita, a mensagem de saudação (Ferramentas > Mensagem de saudação): vai para quem fala com você pela primeira vez ou depois de 14 dias sem conversa.\n\nÉ resposta pronta, não um robô que conversa. O celular precisa estar com internet para a ausência e a saudação saírem.\nO app WhatsApp Business é gratuito. A doceria do vídeo é um exemplo ilustrativo.\n\nConferido na Central de Ajuda do WhatsApp em 08/11/2026.\nNarração com voz de IA.\n\n#whatsappbusiness #atendimento #pequenosnegocios #inteligenciaartificial",
+      "midias": [
+        "video.mp4"
+      ],
+      "capa": "capa.jpg",
+      "ia": true,
+      "instagram": {
+        "status": "pendente",
+        "tentativas": 0
+      }
     }
   ]
 }
