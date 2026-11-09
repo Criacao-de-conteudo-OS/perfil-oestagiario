@@ -215,6 +215,156 @@
         "status": "pendente",
         "tentativas": 0
       }
+    },
+    {
+      "id": "reel-gif",
+      "tipo": "reel",
+      "agendado_para": "2026-11-11T12:30:00-03:00",
+      "legenda": "O desenho do seu filho agora mexe ↓\nO ChatGPT ganhou a criação de GIF (Images 2.6, lançado em 04/11/2026).\n\nComo fazer:\n1. Tire uma foto do desenho.\n2. Mande no ChatGPT e peça: \"faz ele acenar\" (ou outro movimento em loop, como \"faz o sol girar\").\n3. Ajuste a velocidade e compartilhe o GIF.\n\nA função está sendo liberada aos poucos, então pode ainda não ter chegado na sua conta.\nO desenho do vídeo é um exemplo ilustrativo.\n\nManda pra quem guarda os desenhos do filho.\nConferido nas notas de versão oficiais do ChatGPT em 09/11/2026.\nNarração com voz de IA.\n\n#chatgpt #inteligenciaartificial #maternidade #paternidade",
+      "midias": [
+        "video.mp4"
+      ],
+      "capa": "capa.jpg",
+      "ia": true,
+      "instagram": {
+        "status": "pendente",
+        "tentativas": 0
+      }
+    },
+    {
+      "id": "reel-contrato",
+      "tipo": "reel",
+      "agendado_para": "2026-11-11T19:00:00-03:00",
+      "legenda": "Antes de assinar qualquer contrato, faz isso ↓\nComenta CONTRATO que eu te mando as 3 perguntas prontas + o que olhar antes de assinar.\n\nTire foto ou mande o PDF para o Claude (funciona no plano grátis) e pergunte:\n1. \"Me explica esse contrato como se eu tivesse 12 anos.\"\n2. \"Quais cláusulas são ruins pra mim? Marca cada uma.\"\n3. A minha favorita: \"Onde eu me ferro se sair antes do prazo?\"\n\nNo aluguel, a Lei do Inquilinato (art. 4º) manda a multa por devolver o imóvel antes do prazo ser proporcional ao tempo de contrato já cumprido. Se o contrato cobra a multa inteira, negocie antes de assinar.\n\nA IA não substitui um advogado: use para entender o contrato e saber o que perguntar. Tire nome, CPF e endereço antes de mandar.\nO contrato do vídeo é um exemplo ilustrativo.\n\nConferido no Planalto e na Central de Ajuda do Claude em 09/11/2026.\nNarração com voz de IA.\n\n#contrato #aluguel #inteligenciaartificial #claude",
+      "midias": [
+        "video.mp4"
+      ],
+      "capa": "capa.jpg",
+      "ia": true,
+      "instagram": {
+        "status": "pendente",
+        "tentativas": 0
+      }
+    },
+    {
+      "id": "reel-extrato",
+      "tipo": "reel",
+      "agendado_para": "2026-11-12T12:30:00-03:00",
+      "legenda": "O Claude agora lê sua conta do banco ↓ (só nos EUA, por enquanto)\nComenta PLANILHA que eu te mando o passo a passo + os pedidos prontos.\n\nO que mudou: desde 05/11/2026, o Personal Finance do Claude liga contas e cartões (pela Plaid, só leitura) e responde \"pra onde foi meu dinheiro?\". Está em beta, só nos EUA, nos planos Pro, Max e Ultra.\n\nO jeito que funciona aqui, de graça:\n1. Baixe o extrato do mês em PDF no app do banco.\n2. Tire os dados pessoais (nome, CPF, número da conta).\n3. Mande para o Claude e pergunte: \"Quais assinaturas eu pago todo mês? Separa meus gastos por categoria.\"\n\nNunca mande senha. A IA pode errar: confira os valores no extrato.\nOs valores do vídeo são um exemplo ilustrativo.\n\nConferido na Central de Ajuda do Claude em 09/11/2026.\nNarração com voz de IA.\n\n#financaspessoais #claude #inteligenciaartificial #dinheiro",
+      "midias": [
+        "video.mp4"
+      ],
+      "capa": "capa.jpg",
+      "ia": true,
+      "instagram": {
+        "status": "pendente",
+        "tentativas": 0
+      }
+    },
+    {
+      "id": "reel-jogo",
+      "tipo": "reel",
+      "agendado_para": "2026-11-12T19:00:00-03:00",
+      "legenda": "Você cria um jogo sem programar nada ↓\nComenta JOGO que eu te mando o pedido pronto + como ligar os Artefatos.\n\nO pedido tem 3 partes:\n1. O personagem: \"um robô que pula caixas\".\n2. O objetivo: \"desviar e juntar moedas\".\n3. A minha favorita: \"a cada 10 pontos, fica mais rápido\". É ela que deixa o jogo viciante.\n\nO Claude monta o jogo na própria conversa e você joga na hora. Depois, peça mudanças: \"muda a cor\", \"cria 3 fases\".\n\nFunciona no plano grátis, nos Artefatos. Se não aparecer, ligue a execução de código e criação de arquivos em Configurações > Capacidades.\nO jogo do vídeo é uma ilustração.\n\nConferido na Central de Ajuda do Claude em 09/11/2026.\nNarração com voz de IA.\n\n#claude #inteligenciaartificial #jogos #semprogramar",
+      "midias": [
+        "video.mp4"
+      ],
+      "capa": "capa.jpg",
+      "ia": true,
+      "instagram": {
+        "status": "pendente",
+        "tentativas": 0
+      }
+    },
+    {
+      "id": "reel-golpe",
+      "tipo": "reel",
+      "agendado_para": "2026-11-13T12:30:00-03:00",
+      "legenda": "Golpista pode ligar com a sua voz ↓\nDe 3 a 10 segundos de áudio já bastam para clonar uma voz, alerta a Polícia Civil de São Paulo.\n\nComo o golpe chega:\n• uma ligação muda: ninguém fala do outro lado e você continua falando (alerta da Polícia Civil do Amazonas);\n• depois, alguém da família recebe um áudio com a sua voz: \"troquei de número, me manda um Pix\".\n\nA defesa, em 3 partes:\n1. Desconfie de pressa e de pedido de dinheiro fora do normal.\n2. Desligue e ligue de volta no número que você já conhece.\n3. A mais forte: combine uma palavra secreta com a família. Sem a palavra, sem Pix (recomendação do FBI).\n\nManda isso no grupo da família agora.\nCaiu no golpe? Avise o banco na hora e registre o boletim de ocorrência.\n\nConferido nas páginas da Agência SP, da Agência Amazonas e do FBI em 09/11/2026.\nNarração com voz de IA.\n\n#golpe #seguranca #pix #inteligenciaartificial",
+      "midias": [
+        "video.mp4"
+      ],
+      "capa": "capa.jpg",
+      "ia": true,
+      "instagram": {
+        "status": "pendente",
+        "tentativas": 0
+      }
+    },
+    {
+      "id": "reel-aumento",
+      "tipo": "reel",
+      "agendado_para": "2026-11-13T19:00:00-03:00",
+      "legenda": "Treina seu pedido de aumento com a IA ↓\nComenta AUMENTO que eu te mando o pedido pronto do chefe difícil + as 3 objeções pra treinar.\n\nComo fazer, no Claude (ou em outra IA):\n1. Peça: \"Finge que você é meu chefe. Ele é difícil e sempre diz que não tem verba.\" Faça o seu pedido e veja o não.\n2. Pergunte: \"Onde eu fui fraco nesse pedido?\" Em geral falta número (o que você entregou) e sobra desculpa (tempo de casa).\n3. A minha favorita: \"Me dá as 3 objeções mais difíceis que ele pode fazer\" e treine a resposta de cada uma.\n\nQuando a conversa de verdade chegar, você já ensaiou.\nAs falas do vídeo são um exemplo ilustrativo. Não mande dados da empresa que sejam sigilosos.\n\nNarração com voz de IA.\n\n#carreira #aumento #inteligenciaartificial #claude",
+      "midias": [
+        "video.mp4"
+      ],
+      "capa": "capa.jpg",
+      "ia": true,
+      "instagram": {
+        "status": "pendente",
+        "tentativas": 0
+      }
+    },
+    {
+      "id": "reel-memoria",
+      "tipo": "reel",
+      "agendado_para": "2026-11-14T12:30:00-03:00",
+      "legenda": "Pergunta isso pra sua IA hoje: \"o que você lembra sobre mim?\" ↓\n\nOnde ver e mexer na memória:\n• ChatGPT: Configurações > Personalização > Memória (Settings > Personalization > Memory). Dá para corrigir o resumo, pedir para não mencionar mais algo, ou apagar e desligar.\n• Claude: Configurações > Seu Claude > Gerenciar (Settings > Your Claude > Manage; em algumas contas, Settings > Memory). Dá para editar ou apagar cada tópico, pausar ou zerar. No Claude a memória vem ligada, até no plano grátis.\n\nOs nomes dos menus podem variar conforme o plano e o aparelho.\nAs respostas do vídeo são um exemplo ilustrativo.\n\nManda pra quem conta tudo pra IA.\nConferido nas Centrais de Ajuda da OpenAI e da Anthropic em 09/11/2026.\nNarração com voz de IA.\n\n#chatgpt #claude #privacidade #inteligenciaartificial",
+      "midias": [
+        "video.mp4"
+      ],
+      "capa": "capa.jpg",
+      "ia": true,
+      "instagram": {
+        "status": "pendente",
+        "tentativas": 0
+      }
+    },
+    {
+      "id": "reel-holerite",
+      "tipo": "reel",
+      "agendado_para": "2026-11-14T19:00:00-03:00",
+      "legenda": "Ganha até R$ 5 mil? Seu imposto de renda zerou ↓\nComenta HOLERITE que eu te mando as 3 perguntas prontas pra conferir o seu.\n\nDesde janeiro de 2026 (Lei 15.270/2025), quem tem rendimento tributável de até R$ 5.000 por mês não paga imposto de renda na fonte. De R$ 5.000,01 a R$ 7.350, o imposto diminui.\n\nTire foto do holerite (sem nome e CPF) e pergunte ao Claude:\n1. \"Me explica cada desconto, linha por linha.\"\n2. \"Quanto vai pro INSS e quanto é imposto?\"\n3. A minha favorita: \"Pela Lei 15.270, esse imposto tá certo?\"\n\nVeio imposto com salário de até R$ 5 mil? Pergunte ao RH: pode haver outro rendimento no mês. A IA pode errar, então confira com quem faz a sua folha.\nNo vídeo, o INSS segue a tabela de 2026 (Portaria Interministerial MPS/MF nº 13/2026); o holerite é um exemplo ilustrativo.\n\nConferido no Planalto e no site do INSS em 09/11/2026.\nNarração com voz de IA.\n\n#impostoderenda #holerite #salario #inteligenciaartificial",
+      "midias": [
+        "video.mp4"
+      ],
+      "capa": "capa.jpg",
+      "ia": true,
+      "instagram": {
+        "status": "pendente",
+        "tentativas": 0
+      }
+    },
+    {
+      "id": "reel-apagar",
+      "tipo": "reel",
+      "agendado_para": "2026-11-15T12:30:00-03:00",
+      "legenda": "Tira o fundo da foto sem aplicativo ↓\n\nNo iPhone (iOS 16 ou mais novo, do XS/XR em diante): abra a foto no app Fotos, toque e segure o produto até aparecer o contorno, e toque em Copiar ou Compartilhar.\nNos Samsung Galaxy mais novos (como a linha S26): abra a Galeria, toque e segure o objeto e espere o recorte automático. Em outros modelos, depende da versão do One UI.\n\nDepois é só colar no story, no WhatsApp ou no catálogo.\nFunciona melhor quando o produto se destaca do fundo.\nA foto do vídeo é um exemplo ilustrativo.\n\nManda pra quem vende pelo Insta.\nConferido no Suporte da Apple e da Samsung em 09/11/2026.\nNarração com voz de IA.\n\n#dicas #iphone #samsung #empreendedorismo",
+      "midias": [
+        "video.mp4"
+      ],
+      "capa": "capa.jpg",
+      "ia": true,
+      "instagram": {
+        "status": "pendente",
+        "tentativas": 0
+      }
+    },
+    {
+      "id": "reel-geladeira",
+      "tipo": "reel",
+      "agendado_para": "2026-11-15T19:00:00-03:00",
+      "legenda": "Tira uma foto da sua geladeira ↓\nComenta GELADEIRA que eu te mando o pedido pronto: 5 jantas + a lista do que falta.\n\nMande a foto para o Claude (funciona no plano grátis) e peça:\n1. \"O que dá pra fazer com o que tem aqui?\"\n2. \"Monta 5 jantas rápidas, de até 30 minutos.\"\n3. O meu favorito: \"Faz a lista de compras só com o que falta.\"\n\nVocê compra menos e não joga comida fora.\nA IA pode confundir um item da foto: confira a lista antes de ir ao mercado.\nA geladeira e o cardápio do vídeo são um exemplo ilustrativo.\n\nConferido na Central de Ajuda do Claude em 09/11/2026.\nNarração com voz de IA.\n\n#receitas #economia #organizacao #inteligenciaartificial",
+      "midias": [
+        "video.mp4"
+      ],
+      "capa": "capa.jpg",
+      "ia": true,
+      "instagram": {
+        "status": "pendente",
+        "tentativas": 0
+      }
     }
   ]
 }
