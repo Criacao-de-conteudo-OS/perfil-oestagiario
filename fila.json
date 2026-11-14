@@ -353,8 +353,12 @@
       "capa": "capa.jpg",
       "ia": true,
       "instagram": {
-        "status": "pendente",
-        "tentativas": 0
+        "status": "publicado",
+        "tentativas": 1,
+        "id_publicado": "18208598539375154",
+        "link": "https://www.instagram.com/reel/DfuiAlfBISn/",
+        "publicado_em": "2026-11-14T15:30:47.396Z",
+        "ultimo_erro": null
       }
     },
     {
