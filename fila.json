@@ -417,6 +417,81 @@
         "publicado_em": "2026-11-15T22:00:47.177Z",
         "ultimo_erro": null
       }
+    },
+    {
+      "id": "2026-11-25-reel-multa",
+      "tipo": "reel",
+      "agendado_para": "2026-11-25T12:00:00-03:00",
+      "legenda": "Internet ruim? Talvez você cancele sem multa ↓\n\nComenta MULTA que eu te mando o passo a passo e o pedido pronto.\n\nO app Anatel Qualidade é grátis (Android e iPhone) e faz três coisas:\n1. Mede a velocidade que chega de verdade (download, upload e latência).\n2. Mostra o Selo de Qualidade da sua operadora na sua cidade.\n3. A favorita: confere se você pode cancelar sem a multa de fidelidade. Vale quando o selo da operadora, na sua cidade e no serviço que você contratou, caiu para D ou E depois da data da contratação.\n\nSe o app disser que pode, manda o print pro Claude e pede o pedido de cancelamento pronto. Guarde o número do protocolo.\nQuem decide se você tem o direito é a consulta do app, não a IA.\n\nConferido na página oficial da Anatel em 24/11/2026.\nExemplos ilustrativos. Narração com voz de IA.\n\n#internet #anatel #direitodoconsumidor #inteligenciaartificial",
+      "midias": [
+        "video.mp4"
+      ],
+      "capa": "capa.jpg",
+      "ia": true,
+      "instagram": {
+        "status": "pendente",
+        "tentativas": 0
+      }
+    },
+    {
+      "id": "2026-11-26-reel-empresa",
+      "tipo": "reel",
+      "agendado_para": "2026-11-26T18:30:00-03:00",
+      "legenda": "Seu cliente pergunta pro ChatGPT quem contratar ↓\n\nComenta EMPRESA que eu te mando o passo a passo pra reivindicar a sua.\n\nDesde 10/11/2026 (em teste), a OpenAI deixa você reivindicar o perfil da sua empresa no ChatGPT, pela Central de Negócios:\n1. Você corrige as informações e mostra o que vende.\n2. Ganha a marca azul de verificado.\n3. A favorita: vê quantas vezes o ChatGPT mencionou sua empresa e em quais assuntos (os números só aparecem quando há conversas suficientes).\n\nPor enquanto, só empresas com site. Reivindicar não garante que o ChatGPT vai te indicar: ele continua escolhendo sozinho.\nOs agentes de atendimento dentro do ChatGPT ainda são só para empresas dos EUA.\n\nConferido nas páginas oficiais da OpenAI em 24/11/2026.\nExemplos ilustrativos. Narração com voz de IA.\n\n#chatgpt #empreendedorismo #pequenasempresas #inteligenciaartificial",
+      "midias": [
+        "video.mp4"
+      ],
+      "capa": "capa.jpg",
+      "ia": true,
+      "instagram": {
+        "status": "pendente",
+        "tentativas": 0
+      }
+    },
+    {
+      "id": "2026-11-27-reel-falso",
+      "tipo": "reel",
+      "agendado_para": "2026-11-27T13:30:00-03:00",
+      "legenda": "Esse vídeo do grupo pode ser falso ↓\n\n3 jeitos de conferir se foi feito com IA:\n1. Olha os detalhes: mão estranha, dente borrado, texto torto ou cortado no fundo, sombra e luz que não batem.\n2. Tira print e busca no Google Imagens: se a imagem já existia, aparece de onde veio.\n3. O favorito: manda o vídeo pro Gemini e pergunta \"Esse vídeo é real?\". Ele procura a marca-d'água invisível da IA do Google (SynthID) e diz em qual trecho ela aparece.\n\nCuidado: o Gemini só reconhece o que foi feito com a IA do Google. Sem marca não quer dizer que é verdade.\nO vídeo precisa ter menos de 90 segundos e até 100 MB, e você precisa estar conectado à sua conta.\n\nManda isso no grupo da família.\nConferido na Ajuda do Gemini em 24/11/2026.\nExemplos ilustrativos. Narração com voz de IA.\n\n#fakenews #seguranca #golpe #inteligenciaartificial",
+      "midias": [
+        "video.mp4"
+      ],
+      "capa": "capa.jpg",
+      "ia": true,
+      "instagram": {
+        "status": "pendente",
+        "tentativas": 0
+      }
+    },
+    {
+      "id": "2026-11-28-reel-trava",
+      "tipo": "reel",
+      "agendado_para": "2026-11-28T12:30:00-03:00",
+      "legenda": "Liga isso antes que roubem seu WhatsApp ↓\n\nComenta TRAVA que eu te mando o passo a passo pra mandar pra sua mãe.\n\nA verificação em duas etapas: com ela, só o código do SMS não basta, precisa também da sua senha.\n1. Configurações > Conta.\n2. Verificação em duas etapas > Ativar.\n3. O mais importante: crie uma senha que ninguém adivinha (nada de data de aniversário nem 123456) e confirme.\nDepois, coloque um e-mail que você usa, para recuperar se esquecer a senha.\n\nQuem já tem o PIN de 6 dígitos: o WhatsApp está trocando o PIN por senha.\nParte 2 do vídeo da voz clonada: combine também uma palavra secreta com a família.\n\nConferido na Central de Ajuda do WhatsApp em 24/11/2026.\nExemplos ilustrativos. Narração com voz de IA.\n\n#whatsapp #seguranca #golpe #dicas",
+      "midias": [
+        "video.mp4"
+      ],
+      "capa": "capa.jpg",
+      "ia": true,
+      "instagram": {
+        "status": "pendente",
+        "tentativas": 0
+      }
+    },
+    {
+      "id": "2026-11-29-reel-cliente",
+      "tipo": "reel",
+      "agendado_para": "2026-11-29T19:30:00-03:00",
+      "legenda": "Amanhã você tem 20 clientes pra chamar ↓\n\nComenta CLIENTE que eu te mando os 3 pedidos prontos.\n\nO Claude acha eles hoje, com a busca na web do plano grátis:\n1. Acha 20 empresas do tipo que você atende, na sua cidade, com site e telefone.\n2. Monta uma tabela e marca quem não tem site.\n3. O favorito: pesquisa cada empresa e escreve a primeira mensagem citando algo real dela.\n\nConfere cada contato antes de chamar: a IA pode errar telefone e endereço.\nSó dado público de empresa, nada de dado pessoal (LGPD). E respeite quem pedir pra não receber mais mensagem.\n\nConferido na página de planos do Claude em 24/11/2026.\nExemplos ilustrativos. Narração com voz de IA.\n\n#vendas #prospeccao #claude #inteligenciaartificial",
+      "midias": [
+        "video.mp4"
+      ],
+      "capa": "capa.jpg",
+      "ia": true,
+      "instagram": {
+        "status": "pendente",
+        "tentativas": 0
+      }
     }
   ]
 }
