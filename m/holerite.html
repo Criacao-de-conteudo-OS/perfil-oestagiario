@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Confira o seu holerite · @oestagiario.ia</title>
+<meta name="description" content="As 3 perguntas prontas para a IA conferir o seu holerite pela regra do IR de 2026.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700;800&family=Archivo+Black&family=Instrument+Serif:ital@1&display=swap">
+<style>
+  :root { --cor: #FFC928; --fundo: #0B0B0E; --painel: #16161C; --borda: #2C2C36; --texto: #F4F4F6; --suave: #A9A9B4; --ok: #34D399; --erro: #F87171; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--fundo); color: var(--texto); font: 500 17px/1.6 "Archivo", system-ui, sans-serif; }
+  main { max-width: 680px; margin: 0 auto; padding: 28px 16px 64px; }
+  .marca { display: inline-block; font-weight: 700; color: var(--suave); text-decoration: none; margin-bottom: 22px; }
+  h1 { font: 400 34px/1.1 "Archivo Black", sans-serif; letter-spacing: -0.5px; margin-bottom: 14px; }
+  h1 em { font: italic 400 1.12em/1 "Instrument Serif", Georgia, serif; color: var(--cor); }
+  .conferido { display: inline-block; font-size: 14px; color: var(--suave); border: 1px solid var(--borda); border-radius: 999px; padding: 4px 12px; margin-bottom: 26px; }
+  p { margin-bottom: 14px; }
+  h2 { font: 800 21px/1.25 "Archivo", sans-serif; margin: 34px 0 12px; display: flex; gap: 12px; align-items: center; }
+  h2 b { flex: none; width: 34px; height: 34px; border-radius: 50%; background: var(--cor); color: #121212; display: inline-flex; align-items: center; justify-content: center; font-size: 17px; }
+  ol, ul { padding-left: 22px; margin-bottom: 14px; }
+  li { margin-bottom: 8px; }
+  code { font: 600 15px/1.4 ui-monospace, Consolas, monospace; background: var(--painel); border: 1px solid var(--borda); border-radius: 6px; padding: 2px 6px; word-break: break-all; }
+  .caixa { background: var(--painel); border: 1px solid var(--borda); border-radius: 16px; padding: 18px; margin: 14px 0; overflow-x: auto; }
+  .prompt { border-color: color-mix(in srgb, var(--cor) 70%, transparent); }
+  .prompt .topo { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-bottom: 10px; }
+  .prompt .rotulo { font-weight: 800; font-size: 13px; letter-spacing: 2px; text-transform: uppercase; color: var(--cor); }
+  .prompt pre { white-space: pre-wrap; font: 600 16px/1.55 "Archivo", sans-serif; }
+  .vaga { color: var(--cor); }
+  button { font: 700 15px/1 "Archivo", sans-serif; color: #121212; background: var(--cor); border: 0; border-radius: 999px; padding: 10px 16px; cursor: pointer; flex: none; }
+  button.feito { background: var(--ok); }
+  .aviso { border-color: rgba(248,113,113,0.5); }
+  .aviso strong { color: var(--erro); }
+  table { width: 100%; border-collapse: collapse; font-size: 15px; }
+  th, td { text-align: left; vertical-align: top; padding: 8px 6px; border-bottom: 1px solid var(--borda); }
+  th { color: var(--suave); font-weight: 700; }
+  .rodape { margin-top: 40px; padding-top: 20px; border-top: 1px solid var(--borda); color: var(--suave); font-size: 15px; }
+  a { color: var(--cor); }
+</style>
+</head>
+<body>
+<main>
+  <a class="marca" href="https://www.instagram.com/oestagiario.ia/">@oestagiario.ia</a>
+  <h1>Confira o seu <em>holerite</em></h1>
+  <span class="conferido">Conferido nas páginas oficiais em 09/11/2026</span>
+  <p>Desde janeiro de 2026 (Lei 15.270/2025), quem tem rendimento tributável de até R$ 5.000 por mês não paga imposto de renda na fonte. De R$ 5.000,01 a R$ 7.350, o imposto diminui. Tire foto do holerite e peça para a IA conferir.</p><h2><b>0</b> Antes de mandar</h2><ul><li>Cubra nome, CPF, matrícula e dados do banco.</li><li>Mande o holerite inteiro, com todas as linhas de proventos e descontos.</li><li>Funciona no plano grátis do Claude, com foto ou PDF.</li></ul><h2><b>1</b> Explica linha por linha</h2><div class="caixa prompt"><div class="topo"><span class="rotulo">Pergunta 1</span><button type="button" data-copiar="pedido1">Copiar</button></div><pre id="pedido1">Me explica cada linha desse holerite, uma por uma: o que é, se é ganho ou desconto, e por que foi descontado. Use palavras simples.</pre></div><h2><b>2</b> INSS e imposto</h2><div class="caixa prompt"><div class="topo"><span class="rotulo">Pergunta 2</span><button type="button" data-copiar="pedido2">Copiar</button></div><pre id="pedido2">Quanto foi para o INSS e quanto foi de imposto de renda? Confira o INSS pela tabela de 2026 do empregado: 7,5% até R$ 1.621,00; 9% até R$ 2.902,84; 12% até R$ 4.354,27; 14% até R$ 8.475,55, calculado por faixa. Mostre a conta.</pre></div><h2><b>★</b> A minha favorita: o imposto tá certo?</h2><div class="caixa prompt"><div class="topo"><span class="rotulo">Pergunta 3</span><button type="button" data-copiar="pedido3">Copiar</button></div><pre id="pedido3">Pela Lei 15.270/2025, desde janeiro de 2026 o imposto mensal é zero para rendimento tributável de até R$ 5.000,00 e diminui até R$ 7.350,00. O imposto de renda desse holerite está certo? Se não estiver, me diga a diferença e o que eu pergunto para o RH.</pre></div><p>Veio imposto com salário de até R$ 5 mil? Pergunte ao RH antes de concluir: pode haver outro rendimento tributável no mês, como horas extras.</p><h2>Cuidados</h2><div class="caixa aviso"><p><strong>Bom saber:</strong></p><ul><li>A IA pode errar. Confira com o RH ou com quem faz a sua folha.</li><li>O 13º salário tem um cálculo separado do imposto.</li><li>Nunca mande senha nem dados do banco.</li></ul></div>
+  <div class="rodape">
+    <p>Ficou com dúvida? Me chama no direct. Segue o <a href="https://www.instagram.com/oestagiario.ia/">@oestagiario.ia</a>.</p>
+    <p>Fontes: <a href="https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15270.htm">Planalto, Lei 15.270/2025 (isenção do IR até R$ 5 mil)</a> · <a href="https://www.gov.br/inss/pt-br/direitos-e-deveres/inscricao-e-contribuicao/tabela-de-contribuicao-mensal">INSS, tabela de contribuição mensal 2026</a> · <a href="https://support.claude.com/en/articles/8241126-upload-files-to-claude">Anthropic, enviar arquivos ao Claude</a> · <a href="https://claude.com/pricing">Anthropic, planos do Claude</a>. Sem vínculo com nenhuma dessas empresas.</p>
+  </div>
+</main>
+<script>
+  document.querySelectorAll('[data-copiar]').forEach((botao) => {
+    botao.addEventListener('click', async () => {
+      const texto = document.getElementById(botao.dataset.copiar).innerText;
+      try { await navigator.clipboard.writeText(texto); botao.textContent = 'Copiado'; botao.classList.add('feito'); }
+      catch { botao.textContent = 'Selecione e copie'; }
+    });
+  });
+</script>
+</body>
+</html>
